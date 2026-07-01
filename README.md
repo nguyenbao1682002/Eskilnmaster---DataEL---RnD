@@ -9,7 +9,7 @@ Setup
 
 First, clone the repository to your local machine:
 
-git clone git@github.com:Thanhlinh99/MLBP.git
+git clone
 
 cd MLBP
 
