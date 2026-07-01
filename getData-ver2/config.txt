@@ -1,0 +1,21 @@
+# config.txt
+[connectSQL]
+server = DESKTOP-6E1R1R4\SQLEXPRESS
+database = test
+num_rows_to_select = 80
+
+[config_logging]
+path_log = getData-ver2/log.txt
+
+[file_last_CSV]
+path_file_csv = getData-ver2\lastDataTime.csv
+
+[authentication]
+usr = estec-user
+passwrd = LHxC?!894l3@4zqN
+
+[API]
+url = https://p0fmhg8ipc.execute-api.ap-southeast-1.amazonaws.com/alpha/data
+
+[Timesleep]
+timesleep = 10

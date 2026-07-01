@@ -1,0 +1,4 @@
+env
+build/
+dist/
+getData-ver2/GetData.spec
